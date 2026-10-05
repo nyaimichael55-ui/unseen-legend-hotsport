@@ -1,0 +1,8 @@
+{
+  "name": "NetPulse - Advanced Network Triage & Diagnostic Suite",
+  "description": "Professional network diagnostic toolkit featuring real-time latency analysis, jitter tracking, subnet calculation, multi-OS CLI reference, and exportable IT reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
